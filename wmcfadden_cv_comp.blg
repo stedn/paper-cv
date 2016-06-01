@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: wmcfadden_cv.aux
+The top-level auxiliary file: wmcfadden_cv_comp.aux
 The style file: plainyrev.bst
 Database file #1: pubs.bib
 Too many commas in name 1 of "Rob Kooper, William McFadden, Jason Kastner, Michal Ondrejcek, Kenton McHenry and Peter Bajcsy" for entry Kooper2009
@@ -38,7 +38,7 @@ Too many commas in name 1 of "W. McFadden, K. McHenry, R. Kooper, M. Ondrejcek, 
 while executing---line 1293 of file plainyrev.bst
 You've used 9 entries,
             2525 wiz_defined-function locations,
-            633 strings with 6329 characters,
+            633 strings with 6339 characters,
 and the built_in function-call counts, 4584 in all, are:
 = -- 598
 > -- 127
